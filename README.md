@@ -1,6 +1,4 @@
 # Cava-Configs
-Configuration files for cava
-
 A collection of configuration files for Cava (Console-based Audio Visualizer for ALSA).
 
 Configuration files can be saved within ~/.config/cava/ (or anywhere else where you can remember the location).
